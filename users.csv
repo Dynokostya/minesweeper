@@ -1,0 +1,4 @@
+login,password,last_save,score,games_won,1,2,3,4,5,6,7,8,9,10
+test,1234,config_test.ini,90,24,Easy,Normal,Hard,Normal,Hard,Normal,Hard,Normal,Hard,Normal
+test2,1234,,160,7,Hard,Normal,Hard,Normal,Hard,Easy,Normal,,,
+test3,12345,,0,0,,,,,,,,,,
